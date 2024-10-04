@@ -2,7 +2,7 @@
 
 **This is my black & white gallery 🖤🤍**
 
-![viewfinal](![project view](https://github.com/user-attachments/assets/245e7d79-8013-486d-8000-30548b31ccb7))
+(![project view](https://github.com/user-attachments/assets/245e7d79-8013-486d-8000-30548b31ccb7))
 
 
 

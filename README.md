@@ -1,8 +1,7 @@
 # Shiva's gallery
 
 **This is my black & white gallery 🖤🤍**
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
+![project view](https://github.com/user-attachments/assets/2ecd2c9e-ec2d-4493-b6ea-3c61a39b6a4e)
 
 
 - [Demo Project](https://rahimitabarshiva.github.io/Shiva-s-gallery/)
